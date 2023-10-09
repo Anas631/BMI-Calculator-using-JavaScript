@@ -2,16 +2,14 @@
     display: flex;
     width: 100vw;
     height: 100vh;
-    /* background-color: #d0cef1; */
     text-align: center;
     justify-content: center;
 }
 .container {
-    width: 575px;
-    height: 825px;
-  
-    background-color: #c1bee6;
-    padding-left: 30px;
+    width: 100vw;
+    height: 100vh;
+   background-color: #c1bee6;
+    
   }
   #height,
   #weight {
